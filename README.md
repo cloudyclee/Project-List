@@ -33,8 +33,7 @@
 	- 自行設計洗牌動畫
 	- 自動判定輸贏，並根據判定結果給予使用者回饋
 
-4. [記帳程式](https://cloudyclee.github.io/MyWallet/)
-######伺服器若30分鐘未有請求則會暫停，因此第一次連線需等伺服器重啟
+4. [記帳程式](https://cloudyclee.github.io/MyWallet/) (伺服器若30分鐘未有請求則會暫停，因此第一次連線需等待伺服器重啟)
 	- 自行開設 API 並部署在 Heroku 上供前端串接
 	- 使用 passport.js 與 jwt 套件實作 JSON web token 登入系統
 	- 加入mongoose model 以驗證、存取、更新、刪除資料
