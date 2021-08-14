@@ -1,7 +1,7 @@
 # 作品列表
 以下介紹在學習前端的過程中所撰寫的專案作品，並列出一些技術成就：
 
-1. [品牌形象網站](https://cloudyclee.github.io/Brand_website/dist/index.html)
+1. [品牌形象網站](https://cloudyclee.github.io/Brand_website/dist/index.html)([Github](https://github.com/cloudyclee/Brand_website))
 	- 使用 SASS 撰寫 css 檔 (後續專案均如此)
 	- 使用 Bootstarp 元件與格線系統規劃版面與排版
 	- 使用 jQuery 撰寫網頁互動效果
