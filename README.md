@@ -23,7 +23,7 @@
 	- 驗證使用者填寫資訊
 	- 根據 API 回傳結果給予使用者回饋畫面
 
-3. [新接龍](https://cloudyclee.github.io/c/) ( [Github](https://github.com/cloudyclee/Hotel-reservation) )
+3. [新接龍](https://cloudyclee.github.io/Free_cell) ( [Github](https://github.com/cloudyclee/Free_cell) )
 	- 使用 vue composition API 進行撰寫，以操作資料為原則更新 DOM
 	- 自行撰寫拖曳事件 (非使用原生或 jQuery 的拖曳事件)
 	- 可重開新局、重新開始、復原
