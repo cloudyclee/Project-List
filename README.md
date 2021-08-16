@@ -36,7 +36,7 @@
 4. [記帳程式](https://cloudyclee.github.io/MyWallet/) ( [Github](https://github.com/cloudyclee/MyWallet) )
    *伺服器若30分鐘未有請求則會暫停，因此第一次連線需等待伺服器重啟 
 	- 自行開設 API 並部署在 Heroku 上供前端串接
-	- 使用 passport.js 與 jwt 套件實作 JSON web token 登入系統
+	- 使用 passport.js 與 jsonwebtoken 套件實作 JSON web token 登入系統
 	- 加入mongoose model 以驗證、存取、更新、刪除資料
 	- 使用 joi 套件驗證前端傳回來的資料
 	- 使用 Vue CLI 部署開發環境
